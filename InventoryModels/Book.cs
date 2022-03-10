@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace InventoryManager
+namespace InventoryModels
 {
     public class Book
     {
